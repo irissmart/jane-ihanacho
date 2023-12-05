@@ -1,3 +1,5 @@
+#QUESTION
+
 Elves in the forest of Glandishar are preparing for an Orc invasion. They have a network of N + 1 guard posts located on the open platforms in the treetops. The posts are numbered from 0 to N and are connected by N bridges, so that one can get from any one guard post to any other guard post in a unique way. In other words, guard posts and bridges form a tree graph.
 
 The Elves are afraid that if the Orcs manage to get hold of one of the guard posts, then they will have easy access to all the other guard posts. Therefore, the Elves have decided to destroy at most two bridges and split the guard posts into at most three separate areas, so that the guards can move within each area but it's not possible to move between the areas.
@@ -27,8 +29,8 @@ For example, given the following arrays:
   A[5] = 6    B[5] = 3
   A[6] = 7    B[6] = 5
 
+![image]([https://github.com/irissmart/jane-ihanacho/assets/142328274/0d38dc4c-c57c-4f30-9c0b-39319d4d00f5](https://codility-frontend-prod.s3.amazonaws.com/media/task_static/tree_product/static/images/auto/c8f8e5d369ea10a6117405ff433fea98.png))
 
-![https://codility-frontend-prod.s3.amazonaws.com/media/task_static/tree_product/static/images/auto/c8f8e5d369ea10a6117405ff433fea98.png]
 
 the function should return "18" since the Elves can destroy bridges 1−3 and 3−5 (marked as dashed lines in the image above). The created areas consist of 3, 3 and 2 guard posts.
 
