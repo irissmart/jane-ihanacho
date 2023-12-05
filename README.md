@@ -28,8 +28,7 @@ For example, given the following arrays:
   A[6] = 7    B[6] = 5
 
 
-https://codility-frontend-prod.s3.amazonaws.com/media/task_static/tree_product/static/images/auto/c8f8e5d369ea10a6117405ff433fea98.png
-
+![https://codility-frontend-prod.s3.amazonaws.com/media/task_static/tree_product/static/images/auto/c8f8e5d369ea10a6117405ff433fea98.png]
 
 the function should return "18" since the Elves can destroy bridges 1−3 and 3−5 (marked as dashed lines in the image above). The created areas consist of 3, 3 and 2 guard posts.
 
