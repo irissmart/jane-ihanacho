@@ -29,7 +29,9 @@ For example, given the following arrays:
   A[5] = 6    B[5] = 3
   A[6] = 7    B[6] = 5
 
-![image]([https://github.com/irissmart/jane-ihanacho/assets/142328274/0d38dc4c-c57c-4f30-9c0b-39319d4d00f5](https://codility-frontend-prod.s3.amazonaws.com/media/task_static/tree_product/static/images/auto/c8f8e5d369ea10a6117405ff433fea98.png))
+![image](https://codility-frontend-prod.s3.amazonaws.com/media/task_static/tree_product/static/images/auto/c8f8e5d369ea10a6117405ff433fea98.png))
+
+![image](https://github.com/irissmart/jane-ihanacho/assets/142328274/271eb0c3-4661-4ab9-a0c9-341d8b0f73f3)
 
 
 the function should return "18" since the Elves can destroy bridges 1−3 and 3−5 (marked as dashed lines in the image above). The created areas consist of 3, 3 and 2 guard posts.
