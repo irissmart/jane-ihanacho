@@ -21,13 +21,20 @@ that, given two arrays A and B of N integers, returns the largest possible resul
 
 For example, given the following arrays:
 
-  A[0] = 0    B[0] = 1
-  A[1] = 1    B[1] = 2
-  A[2] = 1    B[2] = 3
-  A[3] = 3    B[3] = 4
-  A[4] = 3    B[4] = 5
-  A[5] = 6    B[5] = 3
-  A[6] = 7    B[6] = 5
+  A[0] = 0;    B[0] = 1;
+  
+  A[1] = 1;    B[1] = 2;
+  
+  A[2] = 1;    B[2] = 3;
+  
+  A[3] = 3;    B[3] = 4;
+  
+  A[4] = 3;    B[4] = 5;
+  
+  A[5] = 6;    B[5] = 3;
+  
+  A[6] = 7;    B[6] = 5;
+  
 
 ![image](https://github.com/irissmart/jane-ihanacho/assets/142328274/271eb0c3-4661-4ab9-a0c9-341d8b0f73f3)
 
@@ -38,8 +45,10 @@ Therefore, the result is 3 * 3 * 2 = 18. It is not possible to obtain a better r
 
 Given the following arrays:
 
-  A[0] = 0    B[0] = 1
-  A[1] = 1    B[1] = 2
+  A[0] = 0;    B[0] = 1;
+  
+  A[1] = 1;    B[1] = 2;
+
 the function should return "3" (it is optimal not to destroy any bridge).
 
 Write an efficient algorithm for the following assumptions:
